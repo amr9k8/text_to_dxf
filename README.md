@@ -11,3 +11,4 @@ a simple way to convert text in any font style to dxf file , for laser cutting a
   4) move fonts files to font folder === > mv example.ttf usr/share/fonts/ 
   5) refresh fonts cache             === >   fc-cache -f -v 
   6) edit the exec() function in the code by replacing the current path of inkscape,pstoedit to your actual path
+  7) unfortunatley this code doesn't work on windows due to some errors in pstoedit , so you have to run it on linux
