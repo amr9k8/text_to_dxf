@@ -13,7 +13,7 @@ a simple way to convert text in any font style to dxf file , for laser cutting a
   6) edit the exec() function in the code by replacing the current path of inkscape,pstoedit to your actual path
   7) unfortunatley this code doesn't work on windows due to some errors in pstoedit , so you have to run it on linux
 
-# sample tests using diffrent fonts styles :
+# sample tests using different fonts styles :
 
 #  Amsterdam 
 ![image](https://github.com/amr9k8/text_to_dxf/blob/main/text-to-dxf-main%20php%20version/dxfConverted/samples/amsterdam.png)
